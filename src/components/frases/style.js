@@ -6,7 +6,7 @@ export default style = StyleSheet.create({
     textoMensagemPrincipal:{ // essa aquiiiiiiiiiiiii
         textAlign:'center',
         fontFamily:'Roboto-Bold',
-        fontSize:25,
+        fontSize:22,
         color:'#FFF',
         marginHorizontal:5
     },
